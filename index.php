@@ -4093,6 +4093,9 @@
                     <div class="col-xl-6  col-lg-7  col-md-12  col-sm-12 col-12">
                         <ul class="useful-link text-center text-lg-right">
                             <li class="d-inline-block pl-45 mb-15">
+                                <a href="https://github.com/ahmadaqbar" target="_blank" class="text-white d-inline-block text-uppercase">Github</a>
+                            </li>
+                            <li class="d-inline-block pl-45 mb-15">
                                 <a href="https://linkedin.com/in/ahmadaqbar" target="_blank" class="text-white d-inline-block text-uppercase">Linkedin</a>
                             </li>
                             <li class="d-inline-block pl-45 mb-15">
